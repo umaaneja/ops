@@ -1,8 +1,13 @@
-# Mule API Connectivity — SAP ECC & Non-SAP
-# skills/mule-api-connectivity/SKILL.md
-# Version: 1.0.0
-# Applies to: MuleSoft Anypoint Platform connecting SAP ECC and Non-SAP systems
-
+---
+name: mule-sap-api-connectivity
+description:
+  Diagnoses MuleSoft Anypoint Platform connectivity failures involving SAP
+  ECC and non-SAP systems. Covers IDoc delivery, BAPI calls, JCo connections,
+  RFC destinations, and Mule flow failures in CloudHub and on-premise runtimes.
+license: MIT
+metadata:
+  author: ops-agent
+  version: '1.0.0'
 ---
 
 ## When to load this skill

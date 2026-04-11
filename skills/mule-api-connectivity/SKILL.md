@@ -1,14 +1,14 @@
-# Skill: Mule API Connectivity
-# File: skills/mule-api-connectivity/SKILL.md
-# Version: 1.0.0
-# Author: Platform Integration Team
-#
-# NAME: Mule API Connectivity Diagnostic
-# DESCRIPTION: Diagnoses MuleSoft Anypoint Platform API failures including
-#   credential errors, connection timeouts, app crashes, flow failures,
-#   and connector misconfigurations. Covers CloudHub and on-premise runtimes.
-#   Does NOT cover SAP-specific layers — use skill: sap-integration for those.
-
+---
+name: mule-api-connectivity
+description:
+  Diagnoses MuleSoft Anypoint Platform API failures including credential
+  errors, connection timeouts, app crashes, flow failures, and connector
+  misconfigurations. Covers CloudHub and on-premise runtimes. Does NOT
+  cover SAP-specific layers — use skill: sap-integration for those.
+license: MIT
+metadata:
+  author: platform-integration-team
+  version: '1.0.0'
 ---
 
 ## When to load this skill
